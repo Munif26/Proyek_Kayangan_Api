@@ -1,6 +1,9 @@
 streamlit
 pandas
+numpy
 matplotlib
-openpyxl
-wordcloud
 seaborn
+scikit-learn
+Sastrawi
+wordcloud
+openpyxl
